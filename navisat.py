@@ -26,7 +26,7 @@ print("")
 apiurl = "https://www.n2yo.com/rest/v1/satellite/"
 apikey = configuration['DEFAULT']['apikey']
 currentlat = configuration['DEFAULT']['currentlat']
-currentlong = configuration['DEFAULT']['currentlat']
+currentlong = configuration['DEFAULT']['currentlong']
 currentalt = configuration['DEFAULT']['currentalt']
 pref = "[navisat]: "
 helpmenu.displayhelp()
