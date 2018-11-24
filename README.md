@@ -57,5 +57,7 @@ NaviSat will grab information about upcoming satellite visual passes. You can se
 # Gen. Info
 
 Developed by [@maxbridgland](https://twitter.com/maxbridgland)
+
 Support E-Mail: [mabridgland@protonmail.com](mailto://mabridgland@protonmail.com)
+
 Licensed Under GNU GPL v3 License 
