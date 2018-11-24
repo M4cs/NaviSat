@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/dRgR69y.png" alt="navsat">
+  <img src="https://i.imgur.com/dRgR69y.png" alt="navsat"></br>
   <a href="https://github.com/M4cs/NaviSat/network"><img src="https://img.shields.io/github/forks/M4cs/NaviSat.svg" alt="Forks"></a>
   <a href="https://github.com/M4cs/NaviSat/stargazers"><img src="https://img.shields.io/github/stars/M4cs/NaviSat.svg" atl="Stars"></a>
   <a href="https://github.com/M4cs/NaviSat/issues"><img src="https://img.shields.io/github/issues/M4cs/NaviSat.svg" alt="Issues"></a>
