@@ -57,7 +57,7 @@ NaviSat will grab information about upcoming satellite radio passes. You can sea
 
 NaviSat will grab information about upcoming satellite visual passes. You can search by NORAD ID. Use the `search` function to find a satellite ID.
 
-# Gen. Info
+# Gen Info
 
 Developed by [@maxbridgland](https://twitter.com/maxbridgland)
 
