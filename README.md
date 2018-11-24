@@ -43,6 +43,8 @@ It will guide you through setting up a configuration and then allow you to start
 
 # Tools:
 
+**All results are predictions made by N2YO**
+
 ### Search Function
 
 NaviSat has a search ability that allows you to search for any satellites above your designated location and grabs their NORAD ID. You can then use this NORAD ID in the `vpasses` or `rpasses` command. 
