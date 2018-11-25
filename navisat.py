@@ -1,14 +1,12 @@
 #!/usr/bin/python3
 from core import config, above, helpmenu, categories, vpasses, rpasses
 import os, pip
-from fabulous import image
 import requests, json
 from configparser import ConfigParser
 os.system("clear")
 config.checkuser()
 configuration = ConfigParser()
 configuration.read("core/config.ini")
-print(image.Image("images/sat.png"))
 print("NaviSat | Satellite Info Tool".center(45, " "))
 print("Developed by @maxbridgland".center(45, " "))
 print("")
