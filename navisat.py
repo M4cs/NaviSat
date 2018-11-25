@@ -1,20 +1,9 @@
 #!/usr/bin/python3
 from core import config, above, helpmenu, categories, vpasses, rpasses
 import os, pip
-pkg = ['terminaltables', 'fabulous', 'requests', 'json', 'configparser']
-for package in pkg:
-    try:
-        from fabulous import image
-        from terminaltables import SingleTable
-        import requests, json
-        from configparser import ConfigParser
-    except:
-        print("Installing Required Modules...")
-        pip.main(['install', package])
-        from fabulous import image
-        from terminaltables import SingleTable
-        import requests, json
-        from configparser import ConfigParser
+from fabulous import image
+import requests, json
+from configparser import ConfigParser
 os.system("clear")
 config.checkuser()
 configuration = ConfigParser()

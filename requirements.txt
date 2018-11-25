@@ -1,0 +1,6 @@
+fabulous==0.3.0
+terminaltables==3.1.0
+requests==2.20.1
+pip==9.0.1
+configparser
+json
